@@ -81,22 +81,22 @@
     //account list
     $accounts = [
         "admin" => [
-            "email1" => "alice",
-            "password1" => "alice123",
-            "email2" => "bob",
-            "password2" => "bob123"
+            "email1" => "admin1",
+            "password1" => "admin123",
+            "email2" => "admin2",
+            "password2" => "admin123"
         ],
         "content_manager" => [
-            "email3" => "charlie",
-            "password3" => "charlie123",
-            "email4" => "dave",
-            "password4" => "dave123"
+            "email3" => "manager1",
+            "password3" => "manager123",
+            "email4" => "manager2",
+            "password4" => "manager123"
         ],
         "system_user" => [
-            "email5" => "eve",
-            "password5" => "eve123",
-            "email6" => "frank",
-            "password6" => "frank123",
+            "email5" => "user1",
+            "password5" => "user123",
+            "email6" => "user2",
+            "password6" => "user123",
         ],
     ];
 
